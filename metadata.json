@@ -1,0 +1,6 @@
+{
+  "name": "Kariz Stone CRM",
+  "description": "A field sales management CRM application for Kariz Stone natural stone company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
